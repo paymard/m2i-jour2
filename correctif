@@ -1,0 +1,21 @@
+From 15ed4272d82c3a01b224ffd79a59948c7874ba52 Mon Sep 17 00:00:00 2001
+From: paymard <paymard@cegid.com>
+Date: Thu, 19 Sep 2019 11:37:00 +0200
+Subject: [PATCH 1/2] C1
+
+---
+ README.md | 3 ++-
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+
+diff --git a/README.md b/README.md
+index 780dd1c..5dccbff 100644
+--- a/README.md
++++ b/README.md
+@@ -1 +1,2 @@
+-# m2i-jour2
+\ No newline at end of file
++# m2i-jour2
++modif
+-- 
+2.23.0.windows.1
+
